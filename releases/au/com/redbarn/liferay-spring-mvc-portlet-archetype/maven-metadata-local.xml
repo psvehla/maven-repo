@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>au.com.redbarn</groupId>
+  <artifactId>liferay-spring-mvc-portlet-archetype</artifactId>
+  <versioning>
+    <release>1.0-RELEASE</release>
+    <versions>
+      <version>1.0-RELEASE</version>
+    </versions>
+    <lastUpdated>20121017133555</lastUpdated>
+  </versioning>
+</metadata>
