@@ -3,10 +3,10 @@
   <groupId>au.com.redbarn</groupId>
   <artifactId>liferay-spring-mvc-portlet-archetype</artifactId>
   <versioning>
-    <release>1.0-RELEASE</release>
+    <release>1.3-RELEASE</release>
     <versions>
-      <version>1.0-RELEASE</version>
+      <version>1.3-RELEASE</version>
     </versions>
-    <lastUpdated>20121017133555</lastUpdated>
+    <lastUpdated>20140709144632</lastUpdated>
   </versioning>
 </metadata>
